@@ -23,7 +23,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $msg = "Aluno cadastrado com sucesso";
 }
-$meuCaderno = fopen("alunos.txt", "a");
+
 ?>
 
 <html>
